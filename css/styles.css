@@ -1,0 +1,27 @@
+html{
+    font-size: 16px;
+}
+body {
+    background-color: #1f2739;
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    font-weight: 400;
+    color: #B88B5C;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+}
+thead th {
+    color: #fff842  !important;
+}
+#copy {
+    text-align: center;
+    margin-top: 4rem;
+    color: #EE2954;
+    font-size: 1rem;
+}
+
+footer svg  {
+    color: #fff842;
+}
